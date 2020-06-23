@@ -1,0 +1,12 @@
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\DAL.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\DAL.pdb
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\DAL.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\LayerEntity.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\LayerEntity.pdb
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\LayerEntity.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.pdb

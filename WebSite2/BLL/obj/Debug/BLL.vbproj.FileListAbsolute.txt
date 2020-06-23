@@ -1,0 +1,15 @@
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\BLL.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\BLL.pdb
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\BLL.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\DAL.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\LayerEntity.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\DAL.pdb
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\DAL.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\LayerEntity.pdb
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\LayerEntity.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.dll
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.xml
+C:\Users\JONHY}\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.pdb
